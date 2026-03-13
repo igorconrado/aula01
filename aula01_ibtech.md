@@ -2,7 +2,7 @@
 ## IbTech — Encontro 01
 
 **Duração total:** ~2h
-**Apresentador:** Igor + Beatriz (suporte prático)
+**Apresentador:** Igor
 **Linguagem:** C
 
 ---
